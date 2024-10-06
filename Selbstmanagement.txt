@@ -1,0 +1,63 @@
+Eisenhower Matrix:
+
+	Erläutern Sie, welche Kriterien bei der Eisenhower-Matrix zur Einordnung einer 	Aufgabenstellung herangezogen werden.
+
+		Dringende und wichtige Perspektiven.
+
+
+	Beschreiben Sie die Matrix und deren Quadranten anhand eines alltagsweltlichen 	Beispiels.
+
+		Qaudrant A soll mit Aufgaben befüllt werden, die nicht länger aufgeschoben 		werden 	sollten und sofort erledigt werden müssen, zum Beispiel das 			vorbereiten auf einen wichtigen Termin in der FH. Danach sollte man sich um 		Quadrant B kümmern, also um Aufgaben, die nicht ganz so wichtig sind, aber 		dafür dringend, zum Beispiel einkaufen gehen. Dannach Quadrant C -> Wenig 		dringend aber sehr wichtig -> der Test  in 2 Wochen. Dannach D -> das 			unwichtigste, Mails checken.
+
+	Welche Quadranten stehen in einem Spannungsverhältnis, warum ist dies möglicherweise 		so, und wie können Sie damit sinnvoll umgehen?
+
+		B und C stehen in einem Spannungsverhältnis, weil oft schwierig ist, die 		Prioritäten zwischen den beiden richtig zu setzen. Lösung -> Einteilen der 		Aufgaben in die Quadranten und dann von A bis D abarbeiten.
+
+Das Paretoprinzip:
+
+	Welchen Sachverhalt untersuchte Vilfredo Pareto und welche Schlussfolgerungen 	ergaben sich für ihn? 
+
+		Die Eigentumsverhältnisse von Grund und Boden in Italien. 				Schlussfolgerung -> 20% der Bevölkerung besaßen 80%.
+
+	Analysieren Sie drei alltagsweltliche Beispiele anhand des Pareto-Prinzips. 
+
+		- 20% des Gewandes im Kasten reichen für 80% der Fälle aus
+		- in Besprechungen: 80% der Probleme können in 20% der Zeit gelöst werden
+		- Präsentationen: 80% der Präsentation (Konzept) sind in 20% der Zeit 			  fertig
+
+	Geben Sie Beispiele für die mögliche Fehlinterpretation des Paretoprinzips. Führen 	Sie den „Antreibertest“ durch.
+		eine mögliche Fehlinterpretation wäre, dass 20% reichen, um 80%ige 			Ergebnisse zu erzielen. 
+1.3, 2.5, 3.4, 4.3, 5.1, 6.5, 7.1, 8.4, 9.5, 10.3, 11.5, 12.2, 13.2, 14.5, 15.3, 16.4, 17.4, 18.5, 19.4, 20.3, 21.3, 22.4, 23.5, 24.4, 25.4, 26.3, 27.5, 28.4, 29.3, 30.5, 31.1, 32.5, 33.3, 34.5, 35.4, 36.5, 37.4, 38.5, 39.5, 40.5, 41.1, 42.5, 43.5, 44.5, 45.4, 46.5, 47.3, 48.4, 49.5, 50.3
+
+Perfekt: 3+4+5+2+5+4+3+5+5+3 = 39
+Mach Schnell: 4+2+5+4+3+5+5+5+5+4 = 42
+Streng dich an: 3+5+3+5+4+3+5+4+5+3 = 40
+Mach es allen Recht: 5+1+3+4+4+5+4+5+4+5 = 40
+Sei stark: 1+5+4+3+4+3+1+5+1+5 = 32
+
+	Erläutern Sie die Auswirkungen, die sich aus Ihrem persönlichen Testergebnis für 	Ihr konkretes Zeitmanagement ergeben.
+
+		Ich sollte mein Zeitmanagement besser in den Griff bekommen. 
+
+	Inwieweit können Sie Ihr Zeitmanagement noch mithilfe des Pareto-Prinzips 	optimieren?
+		Indem ich annehme, dass 20% meiner Tätigkeiten für 80% der erwarteten 			Ergebnisse ausreichen.
+
+Prokrastination:
+
+	Benennen Sie Gründe, warum Sie Aufgaben nicht erledigen, sondern verschieben und 	ordnen Sie Ihre Gründe den drei Ursachen für „Aufschieberitis“ zu.
+
+		Gründe: wenn nicht stress besteht, muss nicht machen
+		Ursachen: Vorlieben, Versagensangst, Startprobleme
+
+	Erläutern Sie mit eigenen Worten den Unterschied zwischen Prioritätensetzung und 	Prokrastination.
+ 
+		Unterschied: Bei prio schieben wir sachen nicht unnötig nach hinten, 			sondern schieben die wichtigen sachen nach vorn. 
+
+	Erklären Sie, wie Attribution und Motivation zusammenhängen. 
+
+		motivation ist abhängig von attribution. motivation ensteht nur, wenn keine 		bis wenige externale und internale Störfaktoren bestehen.
+
+	Probieren Sie das „Just-do-it“ bei Aufgaben, die Sie vor sich herschieben, und 	beschreiben Sie Ihre Erfahrung damit.
+		
+		eine gute Erfahrung, man lernt sich einfach über eine aufgabe ohne 			wiederstand drüberzuarbeiten.
+
